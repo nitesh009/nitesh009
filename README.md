@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Nitesh - aka [nkdebug][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://knitesh.com)
+[![Website](https://img.shields.io/website?label=knitesh.com&style=for-the-badge&url=https%3A%2F%2Fknitesh.com)](https://knitesh.com)
 
 
 ## I'm a Developer, Author and Financial Advisor!!

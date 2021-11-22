@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Nitesh - aka [nkdebug][website] 👋
+### Hi there, I'm Nitesh - aka [nkdebug][linktree] 👋
 
-[![Website](https://img.shields.io/website?label=knitesh.com&style=for-the-badge&url=https%3A%2F%2Fknitesh.com)](https://knitesh.com)
+[![Website](https://img.shields.io/website?label=knitesh.com&style=for-the-badge&url=https%3A%2F%2Fknitesh.com)](https://www.knitesh.com)
 
 
 ## I'm a Developer, Author and Financial Advisor!!
@@ -39,15 +39,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
 
 ---
 
@@ -76,8 +67,9 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://knitesh.com
+[linktree]: https://linktr.ee/nkdebug
+[website]: https://www.knitesh.com
 [twitter]: https://twitter.com/nitesh688
-[youtube]: https://youtube.com/financialmile
 [instagram]: https://instagram.com/irenic_nitesh
 [linkedin]: https://www.linkedin.com/in/kumarniteshgnit/
+

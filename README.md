@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there, I'm Nitesh - aka [nkdebug][linktree] 👋
+### Hi there, I'm Nitesh - aka [nkdebug][] 👋
 
 
 

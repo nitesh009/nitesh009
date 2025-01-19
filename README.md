@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🔭 I just working on my first course: [Become A Web 3.0 Developer] !
 - 🌱 I’m currently learning web 3.0 🤣
 - 👯 I’m looking to collaborate with other content creators and building fintech youtube channel
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do technical analysis of financial markets and read books !
 
 ### Connect with me:
